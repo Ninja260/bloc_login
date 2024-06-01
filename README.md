@@ -1,3 +1,3 @@
 # bloc_login
 
-A new Flutter project.
+Login feature with bloc
